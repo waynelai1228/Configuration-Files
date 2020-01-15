@@ -1,0 +1,2 @@
+syn keyword cType mode_t pid_t pthread_t pthread_attr_t sem_t pthread_mutex_t
+syn keyword bool_t
